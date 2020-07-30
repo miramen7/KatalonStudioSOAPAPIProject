@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DataDrivenTestDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5dbabcbd-c2dc-4090-a925-c58ea4ee354b</testCaseGuid>
+   <variable>
+      <defaultValue>'IN'</defaultValue>
+      <description></description>
+      <id>132dcf10-da99-4efa-a323-0b595cb6aaa0</id>
+      <masked>false</masked>
+      <name>CountryCode</name>
+   </variable>
+   <variable>
+      <defaultValue>'New Delhi'</defaultValue>
+      <description></description>
+      <id>485ea507-5eea-4b4e-939d-9ee2f27676cf</id>
+      <masked>false</masked>
+      <name>Capital</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rupees'</defaultValue>
+      <description></description>
+      <id>290edc87-8023-4960-9ea7-e2395083c25f</id>
+      <masked>false</masked>
+      <name>Currency1</name>
+   </variable>
+</TestCaseEntity>
